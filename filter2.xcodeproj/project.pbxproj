@@ -156,6 +156,7 @@
 		3A454F831BED334A000ECF55 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Sheng Zhang";
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				3A454FAC1BED334A000ECF55 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3A454FAD1BED334A000ECF55 /* Build configuration list for PBXNativeTarget "filter2Tests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				3A454FAF1BED334A000ECF55 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
